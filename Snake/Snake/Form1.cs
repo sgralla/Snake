@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
+// Source: http://forum.chaos-project.com/index.php?topic=12210.0
+
 namespace Snake
 {
     public partial class Form1 : Form
